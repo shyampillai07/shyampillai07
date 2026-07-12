@@ -75,16 +75,6 @@ I am a software developer passionate about designing secure, scalable applicatio
 * Programmed a secure web traffic monitoring system capable of request filtering and threat logging.
 * Engineered real-time detection protocols targeting SQL Injection and Cross-Site Scripting (XSS).
 
-### POFarms (Poultry Farm Management System)
-**Tech Stack:** PHP, MySQL, Bootstrap, JavaScript
-* Architected an enterprise-grade platform to manage inventory, sales analytics, and financial reporting.
-* Implemented relational database schemas incorporating email notifications and role-based access control.
-
-### PINNFuel (AI + IoT Smart Fuel Monitoring)
-**Tech Stack:** Python, AI/ML, IoT Edge Computing
-* Designed a conceptual architecture for IoT-enabled fleet monitoring and fuel theft detection.
-* Modeled data telemetry inputs from edge sensors to organize predictive analytics, presenting findings at a state-level research seminar.
-
 ---
 
 ## Education & Leadership
@@ -114,13 +104,13 @@ I am a software developer passionate about designing secure, scalable applicatio
 ## GitHub Statistics
 
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shyampillai07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyampillai07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shyampillai07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyampillai07&show_icons=true&theme=tokyonight&hide_border=true&timestamp=1)](https://github.com/shyampillai07)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyampillai07&layout=compact&theme=tokyonight&hide_border=true&timestamp=1)](https://github.com/shyampillai07)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shyampillai07&theme=tokyonight&hide_border=true&timestamp=1)](https://github.com/shyampillai07)
 
 ---
 
