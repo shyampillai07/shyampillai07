@@ -113,11 +113,11 @@ I am a software developer passionate about designing secure, scalable applicatio
 
 ## GitHub Statistics
 
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shyampillai07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shyampillai07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyampillai07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shyampillai07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
