@@ -1,4 +1,4 @@
-# Hi, I'm Shyam Pillai 👋
+# Hi, I'm Shyam Pillai 
 
 **Secure Full-Stack Engineer | Defensive Cybersecurity**
 
@@ -24,7 +24,7 @@ Software Developer focused on secure full-stack development and defensive cybers
 
 *Currently seeking internship or full-time roles in Software Development, Secure Software Engineering, or Application Security.*
 
----
+
 
 ## Technical Arsenal
 
@@ -32,7 +32,7 @@ Software Developer focused on secure full-stack development and defensive cybers
   <img src="https://skillicons.dev/icons?i=java,python,c,js,php,react,angular,vue,html,css,tailwind,nodejs,express,django,flask,laravel,mongodb,mysql,postgres,firebase,docker,git,linux,jenkins,nginx,azure,tensorflow,pytorch&perline=14" alt="Tech Stack" />
 </p>
 
----
+
 
 ## Credentials & Education
 
@@ -40,7 +40,7 @@ Software Developer focused on secure full-stack development and defensive cybers
 * **Programming & Tech:** Python & Java Certifications (HackerRank) | IoT Projects (Infosys Springboard)
 * **Education:** Master of Computer Applications (MCA) - VTU (Expected 2027) | BSc Computer Science (CGPA: 9.26) | Former NCC Army Wing Corporal (Grade A)
 
----
+
 
 <p align="center">
   <i>"Building secure software that scales with confidence."</i>
