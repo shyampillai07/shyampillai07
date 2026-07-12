@@ -41,6 +41,13 @@ Software Developer focused on secure full-stack development and defensive cybers
 * **Education:** Master of Computer Applications (MCA) - VTU (Expected 2027) | BSc Computer Science (CGPA: 9.26) | Former NCC Army Wing Corporal (Grade A)
 
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shyampillai07&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+</p>
+
+
 
 <p align="center">
   <i>"Building secure software that scales with confidence."</i>
